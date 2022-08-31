@@ -1,6 +1,4 @@
-# alfabeto
-
-Comandi GIT
+# Comandi GIT
 
 Clonare un nuovo branch partendo dall'attuale:
 
